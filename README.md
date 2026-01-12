@@ -44,14 +44,15 @@ The UI adapts smoothly across:
 ## 🚀 Live Demo
 
 🔗 **Live URL:**
-`https://khan-it-nextjs.vercel.app/`
+🔗 [https://khan-it-nextjs.vercel.app/](https://khan-it-nextjs.vercel.app/)
 
 ---
 
 ## 💻 Source Code
 
 🔗 **GitHub Repository:**
-`https://github.com/jahidkhan12xx/khan_it_nextjs.git`
+🔗 [https://github.com/jahidkhan12xx/khan_it_nextjs.git](https://github.com/jahidkhan12xx/khan_it_nextjs.git)
+
 
 ---
 
