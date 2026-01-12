@@ -66,8 +66,8 @@ The UI adapts smoothly across:
 ## ✅ How to Run Locally
 
 ```bash
-git clone https://github.com/your-username/your-repo-name
-cd your-repo-name
+git clone https://github.com/jahidkhan12xx/khan_it_nextjs.git
+cd khan_it_nextjs
 npm install
 npm run dev
 ```
