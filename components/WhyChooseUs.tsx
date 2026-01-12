@@ -18,7 +18,7 @@ const WhyChooseUs = () => {
 
       <div className="grid md:grid-cols-3 grid-cols-1 gap-7 cursor-pointer">
         <div className="border rounded-2xl border-[#F8FAFC1A] p-5 bg-[#3399FF0D]   hover:bg-[#3399FF1A] hover:border-[#0271E8] transition-all duration-200  group">
-          <Image src={"/web.png"} alt="SEO" height={56} width={56} />
+          <Image src={"/c-1.png"} alt="SEO" height={56} width={56} />
           <h1 className="md:text-2xl text-xl font-semibold pt-5 pb-2 text-white max-w-sm group-hover:text-[#0271E8]">
             Expert-Led by a Proven SEO Specialist
           </h1>
@@ -29,7 +29,7 @@ const WhyChooseUs = () => {
           </p>
         </div>
         <div className="border rounded-2xl border-[#F8FAFC1A] p-5 bg-[#3399FF0D]   hover:bg-[#3399FF1A] hover:border-[#0271E8] transition-all duration-200  group">
-          <Image src={"/web.png"} alt="SEO" height={56} width={56} />
+          <Image src={"/c-2.png"} alt="SEO" height={56} width={56} />
           <h1 className="md:text-2xl text-xl font-semibold pt-5 pb-2 text-white group-hover:text-[#0271E8]">
             Specialized in What Works
           </h1>
@@ -39,7 +39,7 @@ const WhyChooseUs = () => {
           </p>
         </div>
         <div className="border rounded-2xl border-[#F8FAFC1A] p-5 bg-[#3399FF0D]   hover:bg-[#3399FF1A] hover:border-[#0271E8] transition-all duration-200  group">
-          <Image src={"/web.png"} alt="SEO" height={56} width={56} />
+          <Image src={"/c-3.png"} alt="SEO" height={56} width={56} />
           <h1 className="md:text-2xl text-xl font-semibold pt-5 pb-2 text-white group-hover:text-[#0271E8]">
             Transparent Pricing
           </h1>
@@ -49,7 +49,7 @@ const WhyChooseUs = () => {
           </p>
         </div>
         <div className="border rounded-2xl border-[#F8FAFC1A] p-5 bg-[#3399FF0D]   hover:bg-[#3399FF1A] hover:border-[#0271E8] transition-all duration-200  group">
-          <Image src={"/web.png"} alt="SEO" height={56} width={56} />
+          <Image src={"/c-4.png"} alt="SEO" height={56} width={56} />
           <h1 className="md:text-2xl text-xl font-semibold pt-5 pb-2 text-white group-hover:text-[#0271E8]">
             Proven, Measurable Results
           </h1>
@@ -59,7 +59,7 @@ const WhyChooseUs = () => {
           </p>
         </div>
         <div className="border rounded-2xl border-[#F8FAFC1A] p-5 bg-[#3399FF0D]   hover:bg-[#3399FF1A] hover:border-[#0271E8] transition-all duration-200  group">
-          <Image src={"/web.png"} alt="SEO" height={56} width={56} />
+          <Image src={"/c-5.png"} alt="SEO" height={56} width={56} />
           <h1 className="md:text-2xl text-xl font-semibold pt-5 pb-2 text-white group-hover:text-[#0271E8]">
             AI-First, Data-Driven Approach
           </h1>
@@ -69,7 +69,7 @@ const WhyChooseUs = () => {
           </p>
         </div>
         <div className="border rounded-2xl border-[#F8FAFC1A] p-5 bg-[#3399FF0D]   hover:bg-[#3399FF1A] hover:border-[#0271E8] transition-all duration-200  group">
-          <Image src={"/web.png"} alt="SEO" height={56} width={56} />
+          <Image src={"/c-6.png"} alt="SEO" height={56} width={56} />
           <h1 className="md:text-2xl text-xl font-semibold pt-5 pb-2 text-white group-hover:text-[#0271E8]">
             Full-Stack Digital Marketing
           </h1>
